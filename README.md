@@ -13,7 +13,7 @@ Here are some ideas to get you started:
      bootstrap
      html
      css
-     javascript
+     javascript...Dentre outras ferramentas de Design 
 - 💬 Sou Designer Digital tenho formação em em fotografia pelo SENAC, em Design Gráfico pela PUC, edição de vídeo pela Imageria Criativa e Capacitação técnica em Linguagem Audiovisual pelo ESPAÇO KINO. E atualmente sou aluna da GrowDev em Design UI/UX.
       Sou extrovertida e estou sempre em constante desenvolvimento de minhas habilidades e crescimento profissional. Confio em minhas habilidades de ser cuidadosa, na precisão, organização e competência. Sou cooperativa, sincera e leal. Focado no que é correto. Entrego trabalho de qualidade e sempre no prazo. 
 
